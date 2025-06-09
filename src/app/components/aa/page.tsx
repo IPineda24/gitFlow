@@ -1,6 +1,4 @@
-
-
-export default function Home() {
+export default function Aa() {
     return (
         <div className="grid grid-rows-[auto_1fr_auto] min-h-screen bg-gradient-to-br from-blue-100 via-white to-pink-100 p-8 sm:p-20 font-[family-name:var(--font-geist-sans)]">
             <header className="w-full flex justify-center items-center py-4">
